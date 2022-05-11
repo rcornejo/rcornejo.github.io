@@ -1,0 +1,241 @@
+[
+    {
+        "term": "2022-1",
+        "courses": [
+            {
+                "id": "MIC009",
+                "name": "Degree Seminar",
+                "description": "This course is for students at the Master's program in Computer Engineering. Students engage in writing their thesis document and presentation materials. ",
+                "level":1
+            },
+            {
+                "id": "MICE04",
+                "name": "Human Computer Interaction",
+                "description": "This course is for students at the Master's program in Computer Engineering. Students engage in discourse on fundamental concepts for HCI and design methods to develop novel technologies. ",
+                "level":1
+            },
+            {
+                "id": "MICOP214",
+                "name": "Analysis and design of interactive systems",
+                "description": "This course is for students at the Master's program in Computer Engineering. Students engage fundamental design concepts for the design of interactive systems, and prototype and evaluate novel solutions.",
+                "level":1
+            },
+            {
+                "id": "OPC10",
+                "name": "Interaction Design",
+                "description": "This course is for students at the Computer Science Engineering program. Students engage in fundamental interaction design concepts, and prototype novel solutions.",
+                "level":0
+            },
+            {
+                "id": "IA979",
+                "name": "Human Computer Interaction",
+                "description": "This course is for students at the Computer Science Engineering program. Students engage in discourse on basic concepts for HCI and design methods to design and develop novel technologies. ",
+                "level":0
+            }
+        ]
+    },
+    {
+        "term": "2021-2",
+        "courses": [
+            {
+                "id": "DI305",
+                "name": "Doctoral Seminar V",
+                "description": "This course is for students at the Ph.D.'s program in Engineering. Students engage in methodological frameworks to write a research proposal and find suitable grants for its support.",
+                "level":2
+            },
+            {
+                "id": "MIC009",
+                "name": "Degree Seminar",
+                "description": "This course is for students at the Master's program in Computer Engineering. Students engage in writing their thesis document and presentation materials. ",
+                "level":1
+            },
+            {
+                "id": "MICE04",
+                "name": "Human Computer Interaction",
+                "description": "This course is for students at the Master's program in Computer Engineering. Students engage in discourse on fundamental concepts for HCI and design methods to develop novel technologies. ",
+                "level":1
+            },
+            {
+                "id": "MICOP214",
+                "name": "Analysis and design of interactive systems",
+                "description": "This course is for students at the Master's program in Computer Engineering. Students engage fundamental design concepts for the design of interactive systems, and prototype and evaluate novel solutions.",
+                "level":1
+            },
+            {
+                "id": "OPC10",
+                "name": "Interaction Design",
+                "description": "This course is for students at the Computer Science Engineering program. Students engage in fundamental interaction design concepts, and prototype novel solutions.",
+                "level":0
+            },
+            {
+                "id": "IA979",
+                "name": "Human Computer Interaction",
+                "description": "This course is for students at the Computer Science Engineering program. Students engage in discourse on basic concepts for HCI and design methods to design and develop novel technologies.",
+                "level":0
+            }
+        ]
+    },
+    {
+        "term": "2021-1",
+        "courses": [
+            {
+                "id": "MIC009",
+                "name": "Degree Seminar",
+                "description": "This course is for students at the Master's program in Computer Engineering. Students engage in writing their thesis document and presentation materials. ",
+                "level":1
+            },
+            {
+                "id": "OPC10",
+                "name": "Interaction Design",
+                "description": "This course is for students at the Computer Science Engineering program. Students engage in fundamental interaction design concepts, and prototype novel solutions.",
+                "level":0
+            },
+            {
+                "id": "IA979",
+                "name": "Human Computer Interaction",
+                "description": "This course is for students at the Computer Science Engineering program. Students engage in discourse on basic concepts for HCI and design methods to design and develop novel technologies.",
+                "level":0
+            },
+            {
+                "id": "MT206",
+                "name": "Computational Thinking",
+                "description": "This course is for students at the Computer Science Engineering program. Students engage in basic computational algorithms and data structures with block-based programming lessons. ",
+                "level":0
+            }
+        ]
+    },
+    {
+        "term": "2020-2",
+        "courses": [
+            {
+                "id": "DI304",
+                "name": "Doctoral Seminar IV",
+                "description": "This course is for students at the Ph.D.'s program in Engineering. Students engage in methodological frameworks to write a journal article and find suitable venue for its submission.",
+                "level":2
+            },
+            {
+                "id": "MIC009",
+                "name": "Degree Seminar",
+                "description": "This course is for students at the Master's program in Computer Engineering. Students engage in writing their thesis document and presentation materials.",
+                "level":1
+            },
+            {
+                "id": "MICE04",
+                "name": "Human Computer Interaction",
+                "description": "This course is for students at the Master's program in Computer Engineering. Students engage in discourse on fundamental concepts for HCI and design methods to develop novel technologies. ",
+                "level":1
+            },
+            {
+                "id": "OPC10",
+                "name": "Interaction Design",
+                "description": "This course is for students at the Computer Science Engineering program. Students engage in fundamental interaction design concepts, and prototype novel solutions.",
+                "level":0
+            },
+            {
+                "id": "IA979",
+                "name": "Human Computer Interaction",
+                "description": "This course is for students at the Computer Science Engineering program. Students engage in discourse on basic concepts for HCI and design methods to design and develop novel technologies. ",
+                "level":0
+            },
+            {
+                "id": "CI274",
+                "name": "Advanced Programming Topics",
+                "description": "This course is for students at the Computer Science Engineering program. Students engage with advanced programming algorithms and data structures to develop real solutions.",
+                "level":0
+            }
+        ]
+    },
+    {
+        "term": "2020-1",
+        "courses": [
+            {
+                "id": "MIC009",
+                "name": "Degree Seminar",
+                "description": "This course is for students at the Master's program in Computer Engineering. Students engage in writing their thesis document and presentation materials. ",
+                "level":1
+            },
+            {
+                "id": "MICOP216",
+                "name": "Assistive Technologies Design",
+                "description": "This course is for students at the Master's program in Computer Engineering. Students engage in discourse on fundamental concepts to design inclusive and assistive technologies. ",
+                "level":1
+            },
+            {
+                "id": "OPC10",
+                "name": "Interaction Design",
+                "description": "This course is for students at the Computer Science Engineering program. Students engage in fundamental interaction design concepts, and prototype novel solutions.",
+                "level":0
+            },            
+            {
+                "id": "CI274",
+                "name": "Advanced Programming Topics",
+                "description": "This course is for students at the Computer Science Engineering program. Students engage with advanced programming algorithms and data structures to develop real solutions. ",
+                "level":0
+            }
+        ]
+    },
+    {
+        "term": "2019-2",
+        "courses": [
+            {
+                "id": "OPT22",
+                "name": "Research methods",
+                "description": "This course is for students at the Ph.D.'s program in Engineering. Students engage in methodological Students engage in a writing discourse for their thesis proposal.",
+                "level":2
+            },
+            {
+                "id": "DI305",
+                "name": "Doctoral Seminar V",
+                "description": "This course is for students at the Ph.D.'s program in Engineering. Students engage in a writing discourse frameworks to write a research proposal and find suitable grants for its support.",
+                "level":2
+            },
+            {
+                "id": "MIC009",
+                "name": "Degree Seminar",
+                "description": "This course is for students at the Master's program in Computer Engineering. Students engage in writing their thesis document and presentation materials. ",
+                "level":1
+            },
+            {
+                "id": "MICE04",
+                "name": "Human Computer Interaction",
+                "description": "This course is for students at the Master's program in Computer Engineering. Students engage in discourse on fundamental concepts for HCI and design methods to develop novel technologies.",
+                "level":1
+            },
+            {
+                "id": "OPC10",
+                "name": "Interaction Design",
+                "description": "This course is for students at the Computer Science Engineering program. Students engage in fundamental interaction design concepts, and prototype novel solutions.",
+                "level":0
+            },
+            {
+                "id": "CI274",
+                "name": "Advanced Programming Topics",
+                "description": "This course is for students at the Computer Science Engineering program. Students engage with advanced programming algorithms and data structures to develop real solutions. ",
+                "level":0
+            }
+        ]
+    },
+    {
+        "term": "2019-1",
+        "courses": [
+            {
+                "id": "MICOP101",
+                "name": "Computation",
+                "description": "This course is for students at the Master's program in Basic Sciences. Students engage in discourse on fundamental concepts of computer science. ",
+                "level":1
+            },
+            {
+                "id": "MICE04",
+                "name": "Human Computer Interaction",
+                "description": "This course is for students at the Master's program in Computer Engineering. Students engage in discourse on fundamental concepts for HCI and design methods to develop novel technologies. ",
+                "level":1
+            },
+            {
+                "id": "CI274",
+                "name": "Advanced Programming Topics",
+                "description": "This course is for students at the Computer Science Engineering program. Students engage with advanced programming algorithms and data structures to develop real solutions. ",
+                "level":0
+            }
+        ]
+    }
+]

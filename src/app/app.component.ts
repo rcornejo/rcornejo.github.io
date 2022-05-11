@@ -7,4 +7,13 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'rcornejo';
+  scholarUrl="https://scholar.google.com/citations?user=480FEcoAAAAJ&hl=es&authuser=1";
+
+  loadedFeature = 'about';
+  onNavigate(feature:string){
+    if(feature==='google-scholar')
+      window.open(this.scholarUrl,'_blank')
+    else
+      this.loadedFeature = feature;
+  }
 }

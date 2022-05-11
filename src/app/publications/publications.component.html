@@ -1,1 +1,22 @@
-<p>publications works!</p>
+<div class="row">
+    <div class="col-lg-12 alert alert-warning fade in">
+    <p >Please refer to my Google Scholar page for a full, up-to-date listing of publications.</p>
+</div>
+</div>
+<div class="list-group" *ngFor="let item of publications.articles;">
+    <h2 *ngIf="displayYear(item.year)"> {{item.year}}</h2>
+    <a href='{{item.link}}' target="_blank" class="list-group-item list-group-item-info">
+        <h4 class="list-group-item-heading" >{{item.title}}</h4>
+        <span *ngIf="item.award"class="label label-success" >            
+            Best Paper Award
+        </span>
+        <span *ngIf="item.cited_by.value>0" [ngClass]="{'label label-default':item.cited_by.value>-1,
+                          'label-info':item.cited_by.value>0}">                        
+            Cited by {{item.cited_by.value}}
+        </span>        
+        
+    
+        <p class="list-group-item-text"> {{item.authors}} </p>
+    </a>
+</div>
+<!--{{updateYear(item.year)}}-->

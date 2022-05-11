@@ -9,7 +9,7 @@ import { AboutComponent } from './about/about.component';
 import { ResearchGroupComponent } from './research-group/research-group.component';
 import { PublicationsComponent } from './publications/publications.component';
 import { TeachingComponent } from './teaching/teaching.component';
-
+import { FooterComponent } from './footer/footer.component';
 @NgModule({
   declarations: [
     AppComponent,
@@ -18,9 +18,10 @@ import { TeachingComponent } from './teaching/teaching.component';
     AboutComponent,
     ResearchGroupComponent,
     PublicationsComponent,
-    TeachingComponent
+    TeachingComponent,
+    FooterComponent,    
   ],
-  imports: [
+  imports: [    
     BrowserModule,
     AppRoutingModule
   ],

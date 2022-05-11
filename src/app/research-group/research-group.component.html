@@ -1,1 +1,26 @@
-<p>research-group works!</p>
+<h2>Co-Authors</h2>
+<div class="row">
+  <div class="col-md-3" *ngFor="let item of coAuthors;">
+    <a href='{{item.link}}' target="_blank" >
+      <div class="thumbnail">
+        <img src='{{item.thumbnail}}' alt="{{item.name}} bio photo" style="height: 100px;"> <br>
+        <div class="text-center bold"><strong>
+            <p class="text-truncate">{{item.name}}</p>
+          </strong></div>
+      </div>
+    </a>
+  </div>
+</div>
+<h2>Students and Former Students</h2>
+<div class="row">
+  <div class="col-md-3" *ngFor="let item of students;">
+    <a href='{{item.link}}' target="_blank">
+      <div class="thumbnail">
+        <img src='{{item.thumbnail}}' alt="{{item.name}} bio photo" style="height: 100px;"> <br>
+        <div class="text-center bold"><strong>
+            <p class="text-truncate">{{item.name}}</p>
+          </strong></div>
+      </div>
+    </a>
+  </div>
+</div>

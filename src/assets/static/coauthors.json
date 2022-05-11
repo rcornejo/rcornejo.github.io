@@ -1,0 +1,163 @@
+[{
+    "name": "Monica Tentori",
+    "link": "https://scholar.google.com/citations?user=uuzBhRMAAAAJ&hl=en",
+    "serpapi_link": "https://serpapi.com/search.json?author_id=uuzBhRMAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=0",
+    "author_id": "uuzBhRMAAAAJ",
+    "affiliations": "Associate Professor, Computer Science, CICESE",
+    "email": "Verified email at cicese.mx",
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=uuzBhRMAAAAJ&citpid=5"
+  },
+  {
+    "name": "Jesus Favela",
+    "link": "https://scholar.google.com/citations?user=8QP8RgsAAAAJ&hl=en",
+    "serpapi_link": "https://serpapi.com/search.json?author_id=8QP8RgsAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=0",
+    "author_id": "8QP8RgsAAAAJ",
+    "affiliations": "Professor of Computer Science, CICESE",
+    "email": "Verified email at cicese.mx",
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=8QP8RgsAAAAJ&citpid=3"
+  },
+  {
+    "name": "Anne Marie Piper",
+    "link": "https://scholar.google.com/citations?user=5cS1i-UAAAAJ&hl=en",
+    "serpapi_link": "https://serpapi.com/search.json?author_id=5cS1i-UAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=0",
+    "author_id": "5cS1i-UAAAAJ",
+    "affiliations": "University of California Irvine",
+    "email": "Verified email at uci.edu",
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=5cS1i-UAAAAJ&citpid=5"
+  },
+  {
+    "name": "Sergio f. Ochoa",
+    "link": "https://scholar.google.com/citations?user=aUtukf4AAAAJ&hl=en",
+    "serpapi_link": "https://serpapi.com/search.json?author_id=aUtukf4AAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=0",
+    "author_id": "aUtukf4AAAAJ",
+    "affiliations": "Computer Science Department, University of Chile",
+    "email": "Verified email at dcc.uchile.cl",
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=aUtukf4AAAAJ&citpid=2"
+  },
+  {
+    "name": "Robin N. Brewer",
+    "link": "https://scholar.google.com/citations?user=Mlv-tOcAAAAJ&hl=en",
+    "serpapi_link": "https://serpapi.com/search.json?author_id=Mlv-tOcAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=0",
+    "author_id": "Mlv-tOcAAAAJ",
+    "affiliations": "University of Michigan",
+    "email": "Verified email at umich.edu",
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=Mlv-tOcAAAAJ&citpid=9"
+  },
+  {
+    "name": "Francisco J. Gutierrez",
+    "link": "https://scholar.google.com/citations?user=3_p5f3MAAAAJ&hl=en",
+    "serpapi_link": "https://serpapi.com/search.json?author_id=3_p5f3MAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=0",
+    "author_id": "3_p5f3MAAAAJ",
+    "affiliations": "Department of Computer Science, University of Chile",
+    "email": "Verified email at dcc.uchile.cl",
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=3_p5f3MAAAAJ&citpid=2"
+  },
+  {
+    "name": "Diego Muñoz Sáez",
+    "link": "https://scholar.google.com/citations?user=kpxPKhQAAAAJ&hl=en",
+    "serpapi_link": "https://serpapi.com/search.json?author_id=kpxPKhQAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=0",
+    "author_id": "kpxPKhQAAAAJ",
+    "affiliations": "Postdoctoral Researcher, Swinburne University of Technology",
+    "email": "Verified email at swin.edu.au",
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=kpxPKhQAAAAJ&citpid=4"
+  },
+  {
+    "name": "Daniel Eduardo Hernández Morales",
+    "link": "https://scholar.google.com/citations?user=w98GJB4AAAAJ&hl=en",
+    "serpapi_link": "https://serpapi.com/search.json?author_id=w98GJB4AAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=0",
+    "author_id": "w98GJB4AAAAJ",
+    "affiliations": "Profesor",
+    "email": "Verified email at tectijuana.edu.mx",
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=w98GJB4AAAAJ&citpid=2"
+  },
+  {
+    "name": "Luis C Gonzalez",
+    "link": "https://scholar.google.com/citations?user=zOTrLykAAAAJ&hl=en",
+    "serpapi_link": "https://serpapi.com/search.json?author_id=zOTrLykAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=0",
+    "author_id": "zOTrLykAAAAJ",
+    "affiliations": "Professor of Artificial Intelligence, Universidad Autónoma de Chihuahua",
+    "email": "Verified email at uach.mx",
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=zOTrLykAAAAJ&citpid=2"
+  },
+  {
+    "name": "Amanda Lazar",
+    "link": "https://scholar.google.com/citations?user=WrnEVwQAAAAJ&hl=en",
+    "serpapi_link": "https://serpapi.com/search.json?author_id=WrnEVwQAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=0",
+    "author_id": "WrnEVwQAAAAJ",
+    "affiliations": "Assistant Professor, University of Maryland",
+    "email": "Verified email at umd.edu",
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=WrnEVwQAAAAJ&citpid=2"
+  },
+  {
+    "name": "Jon Bird",
+    "link": "https://scholar.google.com/citations?user=iE-i_S4AAAAJ&hl=en",
+    "serpapi_link": "https://serpapi.com/search.json?author_id=iE-i_S4AAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=0",
+    "author_id": "iE-i_S4AAAAJ",
+    "affiliations": "Senior Lecturer in Digital Health, University of Bristol",
+    "email": "Verified email at bristol.ac.uk",
+    "thumbnail": "/assets/images/bird.jpg"
+  },
+  {
+    "name": "Yvonne Rogers",
+    "link": "https://scholar.google.com/citations?user=qzcYcEAAAAAJ&hl=en",
+    "serpapi_link": "https://serpapi.com/search.json?author_id=qzcYcEAAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=0",
+    "author_id": "qzcYcEAAAAAJ",
+    "affiliations": "University College London",
+    "email": "Verified email at ucl.ac.uk",
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=qzcYcEAAAAAJ&citpid=3"
+  },
+  {
+    "name": "Paul Marshall",
+    "link": "https://scholar.google.com/citations?user=63UaXnIAAAAJ&hl=en",
+    "serpapi_link": "https://serpapi.com/search.json?author_id=63UaXnIAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=0",
+    "author_id": "63UaXnIAAAAJ",
+    "affiliations": "Associate Professor (Reader), University of Bristol",
+    "email": "Verified email at bristol.ac.uk",
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=63UaXnIAAAAJ&citpid=3"
+  },
+  {
+    "name": "Mara Balestrini",
+    "link": "https://scholar.google.com/citations?user=yc_zaOcAAAAJ&hl=en",
+    "serpapi_link": "https://serpapi.com/search.json?author_id=yc_zaOcAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=0",
+    "author_id": "yc_zaOcAAAAJ",
+    "affiliations": "ESADE-Ramon Llull University, ESADEGov Center for Public Governance.",
+    "email": "Verified email at faculty.ie.edu",
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=yc_zaOcAAAAJ&citpid=5"
+  },
+  {
+    "name": "Lisa B. Hurwitz",
+    "link": "https://scholar.google.com/citations?user=iXJDJ7QAAAAJ&hl=en",
+    "serpapi_link": "https://serpapi.com/search.json?author_id=iXJDJ7QAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=0",
+    "author_id": "iXJDJ7QAAAAJ",
+    "affiliations": "Lexia Learning",
+    "email": "Verified email at lexialearning.com",
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=iXJDJ7QAAAAJ&citpid=3"
+  },
+  {
+    "name": "Nadir Weibel",
+    "link": "https://scholar.google.com/citations?user=KMVQjuQAAAAJ&hl=en",
+    "serpapi_link": "https://serpapi.com/search.json?author_id=KMVQjuQAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=0",
+    "author_id": "KMVQjuQAAAAJ",
+    "affiliations": "Associate Professor, University of California San Diego",
+    "email": "Verified email at ucsd.edu",
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=KMVQjuQAAAAJ&citpid=2"
+  },
+  {
+    "name": "Johan Wahlström",
+    "link": "https://scholar.google.com/citations?user=9rHhb5IAAAAJ&hl=en",
+    "serpapi_link": "https://serpapi.com/search.json?author_id=9rHhb5IAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=0",
+    "author_id": "9rHhb5IAAAAJ",
+    "affiliations": "University of Exeter",
+    "email": "Verified email at exeter.ac.uk",
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=9rHhb5IAAAAJ&citpid=1"
+  },
+  {
+    "name": "Luis A. Castro",
+    "link": "https://scholar.google.com/citations?user=QkEoPbcAAAAJ&hl=en",
+    "serpapi_link": "https://serpapi.com/search.json?author_id=QkEoPbcAAAAJ&engine=google_scholar_author&hl=en&num=100&sort=pubdate&start=0",
+    "author_id": "QkEoPbcAAAAJ",
+    "affiliations": "Instituto Tecnologico de Sonora (ITSON)",
+    "email": "Verified email at itson.edu.mx",
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=QkEoPbcAAAAJ&citpid=5"
+  }
+]

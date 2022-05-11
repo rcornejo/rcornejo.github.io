@@ -1,1 +1,18 @@
-<p>teaching works!</p>
+<div class="row">
+    <div class="col-md-12">
+        <h2>Courses</h2>              
+    </div>    
+</div>
+<div class="row" *ngFor="let item of teaching;">            
+    <h2>{{item.term}}</h2>
+    <div class="list-group" *ngFor="let course of item.courses;">            
+        <div class="div list-group-item" [ngClass]="{'list-group-item-warning':course.level==2,
+            'list-group-item-info':course.level==1,'list-group-item-success':course.level==0}">
+            <h4 class="list-group-item-heading">
+            <span *ngIf="course.level==2" class="label label-warning">PhD</span>
+            <span *ngIf="course.level==1" class="label label-info">MsC</span>
+            <span *ngIf="course.level==0" class="label label-success">BEng</span> {{course.name}} </h4>
+            <p class="list-group-item-text"> {{course.description}} </p>                    
+        </div>            
+    </div>            
+</div>
