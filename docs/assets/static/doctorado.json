@@ -1,0 +1,31 @@
+[{
+    "term":"2021-2",
+    "courses": [{
+      "id": "DI305",
+      "name": "Doctoral Seminar V",
+      "description": "This course is for students at the Ph.D.'s program in Engineering. Students engage in methodological frameworks to write a research proposal and find suitable grants for its support."
+    }]
+  },
+  {
+    "term":"2020-2",
+    "courses": [{
+      "id": "DI304",
+      "name": "Doctoral Seminar IV",
+      "description": "This course is for students at the Ph.D.'s program in Engineering. Students engage in methodological frameworks to write a journal article and find suitable venue for its submission."
+    }]
+  },
+  {
+    "term":"2019-2",
+    "courses": [{
+        "id": "OPT22",
+        "name": "Research methods",
+        "description": "This course is for students at the Ph.D.'s program in Engineering. Students engage in methodological Students engage in a writing discourse for their thesis proposal."
+      },
+      {
+        "id": "DI305",
+        "name": "Doctoral Seminar V",
+        "description": "This course is for students at the Ph.D.'s program in Engineering. Students engage in a writing discourse frameworks to write a research proposal and find suitable grants for its support."
+      }
+    ]
+  }
+]
