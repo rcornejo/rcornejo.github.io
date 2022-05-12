@@ -159,5 +159,41 @@
     "affiliations": "Instituto Tecnologico de Sonora (ITSON)",
     "email": "Verified email at itson.edu.mx",
     "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=QkEoPbcAAAAJ&citpid=5"
+  },
+  {
+    "name": "Fernando Martínez",
+    "link": "https://scholar.google.com/citations?user=v1orzs0AAAAJ&hl=en",
+    "serpapi_link": "",
+    "author_id": "v1orzs0AAAAJ",
+    "affiliations": "Universidad Autónoma de Chihuahua",
+    "email": "Verified email at uach.mx",
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=v1orzs0AAAAJ&citpid=1"
+  },
+  {
+    "name": "Luis F. Gaxiola",
+    "link": "",
+    "serpapi_link": "https://scholar.google.com/citations?user=bbHHPo0AAAAJ&hl=en",
+    "author_id": "bbHHPo0AAAAJ",
+    "affiliations": "Universidad Autónoma de Chihuahua",
+    "email": "Verified email at uach.mx",
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=bbHHPo0AAAAJ&citpid=1"
+  },
+  {
+    "name": "Alain Manzo",
+    "link": "https://scholar.google.com/citations?user=W2lUAecAAAAJ&hl=en",
+    "serpapi_link": "https://scholar.google.com/citations?user=W2lUAecAAAAJ&hl=en",
+    "author_id": "W2lUAecAAAAJ",
+    "affiliations": "Universidad Autónoma de Chihuahua",
+    "email": "Verified email at uach.mx",
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=W2lUAecAAAAJ&citpid=1"
+  },
+  {
+    "name": "Graciela Ramirez",
+    "link": "https://scholar.google.com/citations?user=8fPGC1wAAAAJ&hl=en",
+    "serpapi_link": "https://scholar.google.com/citations?user=8fPGC1wAAAAJ&hl=en",
+    "author_id": "8fPGC1wAAAAJ",
+    "affiliations": "Universidad Autónoma de Chihuahua",
+    "email": "Verified email at uach.mx",
+    "thumbnail": "https://scholar.googleusercontent.com/citations?view_op=medium_photo&user=8fPGC1wAAAAJ&citpid=1"
   }
 ]
